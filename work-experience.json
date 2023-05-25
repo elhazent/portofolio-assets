@@ -1,0 +1,22 @@
+{
+  "status": 200,
+    "message": "Get data Success",
+    "data":[
+      {
+        "id":1,
+        "company_name":"PT Indonesia Comnets Plus",
+        "position":"Mobile Software Engineer",
+        "description":"• Mendevelop atau mengembangkan mobile application yang bekerja optimal dan sesuai kebutuhannya.\n• Mengikuti tren dan terus mengoptimalkan aplikasi agar tetap sesuai dengan kebutuhan perusahaan dan konsumen.\n• Mengembangkan fungsi - fungsi dan fitur - fitur baru agar aplikasi tetap up-to-date dan tidak tertinggal seiring perkembangan jaman.\n• Bekerjasama dengan developer yang berfokus dalam bidang UX, untuk memastikan konsistensi dari pengalaman pengguna walaupun fungsi dan fitur baru terus dikembangkan.\n• Memperhatikan apa saja masalah dan bug yang muncul dalam proses pengembangan suatu aplikasi.\n• Bertanggung jawab untuk memperbaiki bug - bug tersebut sehingga pengalaman pengguna tidak terganggu dan menyebabkan kerugian bagi perusahaan.",
+        "start_year":"2019",
+        "end_year":"sekarang",
+        "skill":[
+          "Flutter",
+          "Dart",
+          "Firebase",
+          "Google Maps",
+          "Android",
+          "iOS"
+        ]
+      }
+    ]
+}
